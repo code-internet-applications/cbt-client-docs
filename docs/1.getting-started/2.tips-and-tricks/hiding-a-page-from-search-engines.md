@@ -27,7 +27,11 @@ This adds the following meta tag to the `<head>` section of your page:
 
 ::steps{level="4"}
 
-#### From your Shopify admin, go to Settings > [Metafields and metaobjects](https://admin.shopify.com/settings/custom_data){target="_blank"}.
+#### From your Shopify admin, go to Settings > Metafields and metaobjects.
+
+::note{to="https://admin.shopify.com/settings/custom_data"}
+Go to Metafields and metaobjects in the Shopify admin.
+::
 
 #### Under Metafield definitions, select the eligible resource type (Products, Collections, Pages, or Blog posts) that you want to hide.
 
